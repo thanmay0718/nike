@@ -1,11 +1,11 @@
-import {Hero} from './sections/Hero.jsx';
-import {PopularProducts} from './sections/PopularProducts';
-import {Subscribe} from './sections/Subscribe';
-import {SpecialOffer} from './sections/SpecialOffer';
-import { SuperQuality } from './sections/SuperQuality';
-import { Footer } from './sections/Footer';
-import { CustomerReviews } from './sections/CostomerReviews';
-import  { Services } from './sections/Services';
+import Hero from './Hero';
+import PopularProducts from './PopularProducts';
+import Subscribe from './Subscribe';
+import SpecialOffer from './SpecialOffer';
+import SuperQuality from './SuperQuality';
+import Footer from './Footer';
+import CustomerReviews from './CustomerReviews';
+import Services from './Services';
 export {
   Hero,
   PopularProducts,
@@ -14,5 +14,5 @@ export {
   SuperQuality,
   Footer,
   CustomerReviews,
-  
+  Services
 }
